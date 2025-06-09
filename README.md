@@ -11,3 +11,4 @@ Source:
 https://github.com/fliqlo/GBDSsacrr/blob/main/Web.config
 
 Submit the flag here:
+https://forms.gle/H7gkNS8oFGLtGvpH7
